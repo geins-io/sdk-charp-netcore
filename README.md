@@ -1,4 +1,4 @@
-# Org.OpenAPITools - the C# library for the Geins Management API
+# C# library for the Geins Management API
 
 
 Geins Management API is an RESTful api to power your applications who manages your geins services. Geins provides an easy-to-use and scalable solution for managing all aspects of an online store, from product listings and customer information to order processing and payment transactions. 
@@ -93,7 +93,7 @@ namespace Example
         {
 
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.ApiKey.Add("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -126,7 +126,7 @@ namespace Example
 <a name="documentation-for-api-endpoints"></a>
 ## Documentation for API Endpoints
 
-All URIs are relative to *https://mgmtapi.carismar.io*
+All URIs are relative to *https://mgmtapi.geins.io*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------

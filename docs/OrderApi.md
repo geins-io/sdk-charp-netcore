@@ -1,6 +1,6 @@
 # Org.OpenAPITools.Api.OrderApi
 
-All URIs are relative to *https://mgmtapi.carismar.io*
+All URIs are relative to *https://mgmtapi.geins.io*
 
 | Method | HTTP request | Description |
 |--------|--------------|-------------|
@@ -44,7 +44,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -143,7 +143,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -240,7 +240,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -332,7 +332,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -431,7 +431,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -528,7 +528,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -629,7 +629,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -721,7 +721,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -818,7 +818,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -917,7 +917,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -1014,7 +1014,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -1111,7 +1111,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -1208,7 +1208,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -1305,7 +1305,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -1408,7 +1408,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -1507,7 +1507,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "https://mgmtapi.carismar.io";
+            config.BasePath = "https://mgmtapi.geins.io";
             // Configure API key authorization: apiKey
             config.AddApiKey("x-apikey", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
